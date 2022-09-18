@@ -1,0 +1,6 @@
+[
+  { "id": "1a", "name": "cheese", "price": 2.5, "location": "freezed food" },
+  { "id": "2a", "name": "crisps", "price": 4, "location": "snacks" },
+  { "id": "3a", "name": "pizza", "price": 5, "location": "hot food" },
+  { "id": "4a", "name": "cream", "price": 2, "location": "freezed food" }
+]
